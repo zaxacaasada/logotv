@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186572&extension=m3u8
+https://e101.ais-streaming.live/v5/5PcMPSLlwi7EUV4WMB8XMw/1759072057/c9dbe427b59f503e93e1d6027eb47812/9un3XCIS-Q18nBo7Rw0eoA/1759082737/live/lx-origin/th-monomax01eng_720/playlist.m3u8
+
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186572&extension=m3u8

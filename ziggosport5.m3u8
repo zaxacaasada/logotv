@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://backup.xp1.tv/c/play/live.php?mac=00:1A:79:FC:8F:7D&stream=248134&extension=m3u8
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:FC:8F:7D&stream=248134&extension=m3u8

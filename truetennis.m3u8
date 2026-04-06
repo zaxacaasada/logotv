@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://119.59.118.168/live/ch25/irannahee/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 https://love.sikoyo3159.workers.dev/lx-origin/hd-tennis_720/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 https://love.kopen87949.workers.dev/lx-origin/hd-tennis_720/chunks.m3u8
@@ -34,5 +36,3 @@ https://love.watipej760.workers.dev/lx-origin/hd-tennis_720/chunks.m3u8
 https://love.cedesi6978.workers.dev/lx-origin/hd-tennis_720/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 https://love.vohelem576.workers.dev/lx-origin/hd-tennis_720/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://119.59.118.168/live/ch25/irannahee/index.m3u8

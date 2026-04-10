@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1776046&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://119.59.118.168/live/ch56/irannahee/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 https://love.sayob28681.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
@@ -29,4 +31,3 @@ https://love.tecobo5568.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 https://love.uh6wzyncw9.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776046&extension=m3u8
